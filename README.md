@@ -69,3 +69,11 @@
           pasuspender qjackctl
 
 10. Verify everything is setup correctly by starting a new Ardour session with JACK and ALSA.
+
+## Troubleshooting
+
+* Unable to hear out of front left headphone or laptop speakers. Try running:
+
+        alsactl restore
+
+    * **Source:** https://askubuntu.com/questions/132440/headphone-jack-not-working
