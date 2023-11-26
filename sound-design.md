@@ -72,6 +72,12 @@ sudo apt install x42-plugins
 
 A **spectrum analyzer** can view harmonics.
 
+## Sounds
+
+### Korg M1 Organ Bass Robin S. "Show Me Love"
+
+https://www.musicradar.com/tuition/tech/how-to-create-a-korg-m1-style-organ-bass-sound-642650
+
 ## References
 
 * [[YouTube] In The Mix: Sound Design and Synth Fundamentals](https://www.youtube.com/watch?v=NJLIS2MkFe4&t=286s&ab_channel=InTheMix)
